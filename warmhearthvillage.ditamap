@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title><i>AirClassroom</i> Guide for Warm Hearth Village Residents</title>
+ <topicref href="c-welcome.dita"/>
+ <topicref href="t-turningmacon.dita"/>
+ <topicref href="t-googling.dita"/>
+ <topicref href="t-msword.dita"/>
+ <topicref href="t-gmail.dita"/>
+ <topicref href="t-shortcuts.dita"/>
+ <topicref href="t-loggingoff.dita"/>
+ <topicref href="t-smoking.dita"/>
+</map>

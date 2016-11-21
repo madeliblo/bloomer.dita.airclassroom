@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title><i>AirClassroom</i> Guide for UPS Trainees</title>
+ <topicref href="c-welcome.dita"/>
+ <topicref href="t-parking.dita"/>
+ <topicref href="t-software.dita"/>
+ <topicref href="t-smoking.dita"/>
+</map>
