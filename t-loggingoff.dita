@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-loggingoff">
+    <title>Logging Off of the Mac</title>
+    <shortdesc>Once you complete your work for the day, you will need to log off of the computer so that the next person who uses it can log on using their own account, without messing with any of your files.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Before logging off, be sure to save any documents you have worked on so that no progress is lost.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>In the top left corner of your screen, click the Apple menu (the tab shaped like an apple).</cmd>
+                <stepresult><image href="loggingoff.gif" id="image_ds5_2wd_1y"><alt>Taken from Google Images</alt></image></stepresult>
+            </step>
+            <step>
+                <cmd>Select the bottom option: <b>Log Out Guest User</b>.</cmd>
+                <info>In some circumstances, your supervisor may ask you to shut down the computer,
+                    in which you would use the same menu to select <b>Shut Down...</b></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

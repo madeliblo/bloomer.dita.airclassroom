@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-uf80">
+    <title>Using the UF-80 USB Viewer</title>
+    <shortdesc>The UF-80 USB Viewer is a technology that can help optimize one's learning experience
+        by enlarging a document so that everyone in the room can view it at once.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_dq1_vyd_1y">For the UF-80 USB Viewer to work properly, make sure it is
+            plugged into a wall outlet and a projector.</prereq>
+        <steps>
+            <step>
+                <cmd conref="t-screen.dita#t-screen/screen">Adjust the screen accordingly.</cmd>
+                <substeps id="substeps_ihf_gd2_1y">
+                    <substep>
+                        <cmd>Adjust the screen accordingly.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>On the UF-80 USB Viewer, press the power button on the far right of the
+                    selection of buttons.</cmd>
+                <stepresult><image href="20161117_105119.jpg" id="image_xfm_gc2_1y"><alt>Taken by Valerie McLean</alt></image></stepresult>
+            </step>
+            <step>
+                <cmd>Place the object you want to show directly underneath the light of the object.
+                    Turn the lamp on if necessary for viewing.</cmd>
+            </step>
+            <step>
+                <cmd>Twist the top of the device clockwise to zoom in and counterclockwise to zoom out.</cmd>
+            </step>
+            <step>
+                <cmd>Turn the device back off once you finish using it.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-software">
+    <title>Learning UPS Technologies</title>
+    <shortdesc>This training seminar will help you get accustomed to the technologies used in your new position at UPS.</shortdesc>
+    <taskbody>
+        <context>
+            <p>The software TrainMeUPS is used for training new UPS employees.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd conref="t-turningmacon.dita#t-turningmacon/turnon" />
+            </step>
+            <step>
+                <cmd conref="t-turningmacon.dita#t-turningmacon/logon" />
+            </step>
+            <step>
+                <cmd conref="t-googling.dita#t-googling/chrome" />
+                <stepresult><image href="chrome.png" id="image_h1k_jhz_yx"><alt>Taken from Google Images</alt></image></stepresult>
+            </step>
+            <step>
+                <cmd>In the top search bar, type in <b>trainmeups.com</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Log in with the credentials your training coordinator provides you.</cmd>
+            </step>
+            <step>
+                <cmd>Choose your job position and follow the on-screen prompts.</cmd>
+                <info>If you encounter any problems, bring them to your training coordinator's attention.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

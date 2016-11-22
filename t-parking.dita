@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-parking">
+    <title>Parking at Virginia Tech</title>
+    <shortdesc>In order to park at Virginia Tech without getting your vehicle towed or ticketed, you
+        will need a Visitor's parking pass.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Visit Parking Services at 605 Research Center Dr. It is located in between Lane
+                    Stadium and the Corporate Research Center.</cmd>
+            </step>
+            <step>
+                <cmd>Go inside and give the worker your name and license plate number.</cmd>
+            </step>
+            <step>
+                <cmd>You will be given a parking pass, along with a document informing you of places
+                    you are able to legally park. Use it accordingly .</cmd>
+            </step>
+            <step>
+                <cmd>Hang the parking pass on your rearview mirror, or place it in the dashboard so
+                    it is visible outside of the vehicle.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-screen">
+    <title>Using the Projector Screen</title>
+    <shortdesc>To optimize your viewing experience while using a projector, you need to know how to
+        work the projector screen.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_ul2_dd2_1y">Make sure nothing is blocking the pathway of the projector
+            screen.</prereq>
+        <steps>
+            <step>
+                <cmd id="screen">In the front of the classroom, find the switch switch labeled <b>Up</b> and
+                        <b>Down</b>.</cmd>
+                <stepresult><image href="20161117_105144.jpg" id="image_ovw_yc2_1y"><alt>Taken by Valerie McLean</alt></image></stepresult>
+            </step>
+            <step>
+                <cmd>To bring the screen down, press the switch toward <b>Down</b>.</cmd>
+            </step>
+            <step>
+                <cmd>When you are finished using the screen, press the switch toward
+                    <b>Up</b>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

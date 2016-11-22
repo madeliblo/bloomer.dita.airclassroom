@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-shortcuts">
+    <title>Using Keyboard Shortcuts</title>
+    <shortdesc>All computers have keyboard shortcuts that help users save time.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Though there are hundreds of keyboard shortcuts that can be used, we will focus on a few simple ones that you may find especially beneficial when working between Gmail and Microsoft Word.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>If you are trying to locate a certain word or subject on a website or document, you can <i>find</i> it by pressing <b>Cmd</b> and <b>F</b> simultaneously on your keyboard, typing the keywords you are trying to find, and pressing <b>Return</b>.
+                 Scroll down the page to see all of the results highlighted in yellow.</cmd>
+                <stepresult><image href="finding.png" id="image_zvv_mq1_zx"><alt>Taken from Google Images</alt></image></stepresult>
+            </step>
+            <step>
+                <cmd>If you want to <i>copy</i> text or photos that you find when browsing the
+                    Internet, select and highlight the item(s) with your mouse and press <b>Cmd</b>
+                    and <b>C</b> simultaneously on your keyboard.</cmd>
+                <info>Your copied text or photo will stay copied until you copy something else or
+                    reset your computer.</info>
+            </step>
+            <step>
+                <cmd>If you want to place that information somewhere else, go to anywhere you are able to type text and <i>paste</i> it by pressing <b>Cmd</b> and <b>V</b> simultaneously on your keyboard.</cmd>
+            </step>
+            <step>
+                <cmd>If you would like to copy text or photos that you have typed but delete them at the same time, select the item(s) and <i>cut</i> by pressing <b>Cmd</b> and <b>X</b> simultaneously on your keyboard.</cmd>
+            </step>
+            <step>
+                <cmd>If you delete something by accident, you can <i>undo</i> that action by pressing <b>Cmd</b> and <b>Z</b> simultaneously on your keyboard.</cmd>
+            </step>
+            <step>
+                <cmd>If you decide that you want to reverse your undo, you can <i>redo</i> that action by pressing <b>Cmd</b>, <b>Shift</b>, and <b>Z</b> simultaneously on your keyboard.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

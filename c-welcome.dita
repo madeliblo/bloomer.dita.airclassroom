@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c-welcome">
+ <title id="welcome">Welcome to <i>AirClassroom</i>!</title>
+ <shortdesc id="business">We appreciate your business with us.</shortdesc>
+ <conbody>
+  <p>To provide you the best possible experience with <i>AirClassroom</i>, we have provided you with
+   different procedures to help maximize your understanding of our technologies and optimize your experience with us.</p>
+ </conbody>
+</concept>

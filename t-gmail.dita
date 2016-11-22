@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-gmail">
+    <title>Creating an Email Account</title>
+    <shortdesc>Email stands for electronic mail, and is the main communication medium used for computers.</shortdesc>
+    <taskbody>
+        <context>
+            <p>There are many different email servers, but since you have already worked some with Google, we will use Google's email provider, Gmail.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open <b>Google Chrome</b>, and in the top search bar, enter
+                        <b>accounts.google.com/signup</b>.</cmd>
+                <stepresult><image href="creategmail.png" id="image_ctn_qxz_yx">
+                    <alt>Taken from Google Images</alt></image></stepresult>
+            </step>
+            <step>
+                <cmd>Enter your information, and be sure to choose a username and password you can easily remember. It may be beneficial to write them down somewhere safe. After filling out 
+                all of the information, click <b>Next Step</b> near the bottom of the page.</cmd>
+            </step>
+            <step>
+                <cmd>Google's Privacy and Terms will open, and you will need to scroll down and click <b>I Agree</b>.</cmd>
+                <stepresult><image href="terms.jpg" id="image_mcr_rxz_yx">
+                    <alt>Taken from Google Images</alt></image></stepresult>
+            </step>
+            <step>
+                <cmd>Continue to your email account, and Gmail will walk you through the simple functions of navigations with on-screen prompts.</cmd>
+            <stepresult>You have successfully created your email account! Use it to send and receive
+                    your Microsoft Word documents to your friends' email addresses or send messages
+                    to family using their email addresses.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

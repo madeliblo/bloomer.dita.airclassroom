@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-googling">
+    <title>Searching the World Wide Web</title>
+    <shortdesc>There is a lot of information stored on the Web. To access it, all you need is a computer, an internet connection, and a web browser.</shortdesc>
+    <taskbody>
+        <context>
+            <p>For <i>AirClassroom</i>, we will be using Google Chrome as a web browser, which is often shortened as Chrome.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd id="chrome">On the home screen, move your mouse so that the pointer hovers over the Google
+                    Chrome icon, and quickly double click the icon using the left button of your
+                    mouse.</cmd>
+                <stepresult>
+                <image href="chrome.png" id="image_h1k_jhz_yx">
+                <alt>Taken from Google Images</alt></image>
+                </stepresult>
+            </step>
+            <step>
+                <cmd>Google Chrome will open, and you can type a specific website in the search bar
+                    at the top, or you can type in any question you want to find out using the
+                    popular search engine Google.</cmd>
+                <info>If you want to find certain information or a specific website, you can do so
+                    using basic terms or asking a full question. For example, if you wanted to find
+                    out when Pizza Hut closes, you can search "What are the hours at Pizza Hut near
+                    me?" or "pizza hut 24060". The same results should appear.</info>
+                <stepresult><image href="Screenshot%20(19).png" id="image_v4x_3lz_yx">
+                    <alt>Taken by Maddy Bloomer</alt></image></stepresult>
+            </step>
+            <step>
+                <cmd>Some information does not show up as easily as shown above. After typing in the
+                    information you want to know and pressing <b>Return</b>, use your mouse to
+                    select the link that looks the most helpful to you.</cmd>
+                <stepresult><image href="return.jpg" id="image_ayq_nlz_yx">
+                    <alt>Taken from Google Images</alt></image></stepresult>
+            </step>
+            <step>
+                <cmd>To scroll down the page, use your mouse pointer on the screen to select the
+                    gray scroll bar on the far right of the page. Click and hold the left button on
+                    the mouse to move up or down the page, and release the button when you reach the
+                    place on the screen you would like to stop at.</cmd>
+            </step>
+            <step>
+                <cmd>If you find that you clicked the wrong link or want to go back to the previous
+                    options, select the <b>Back</b> arrow button in the top left of the browser.
+                    Hold down the click on the button for a few seconds to allow the previous website options to appear,
+                    and you can quickly select one of them. Similarly, if you want to go back
+                    forward to the page you went back from, select the <b>Forward</b> arrow
+                    button.</cmd>
+                <stepresult><image href="backforward.jpg" id="image_ywr_xkz_yx">
+                    <alt>Taken from Google Images</alt></image></stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

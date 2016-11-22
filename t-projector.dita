@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-projector">
+    <title>Using the Epson Projector</title>
+    <shortdesc>To properly showcase your documents to the classroom, you will need to use the
+        projector.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_blt_ld2_1y">Make sure the remote control to the projector has working
+            batteries.</prereq>
+        <steps>
+            <step>
+                <cmd>Press the top left blue power button on the remote control to turn on the
+                    projector. </cmd>
+                <stepresult><image href="20161117_105701.jpg" id="image_gjg_sd2_1y"><alt>Taken by Valerie McLean</alt></image></stepresult>
+            </step>
+            <step>
+                <cmd>A blue light on the projector will appear, confirming that the projector is
+                    turned on.</cmd>
+                <steptroubleshooting>If any problems occur, call the Epson Tech Department at
+                        <b>1-800-374-2948</b>.</steptroubleshooting>
+            </step>
+            <step>
+                <cmd>Using the appropriate buttons, use the remote as a pointer or to go to your
+                    next or previous slides.</cmd>
+            </step>
+            <step>
+                <cmd>When finished, turn the projector off the same way you turned it on.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-smoking">
+    <title>Smoking on Campus</title>
+    <shortdesc>Despite its efforts to ban smoking altogether, Virginia Tech is a relatively
+        cigarette-friendly campus.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>If you are of legal age, find a convenient place that is at least 25 feet away
+                    from any building entryways.</cmd>
+            </step>
+            <step>
+                <cmd>Smoke your cigarette.</cmd>
+                <info>Be courteous by making sure the smoke from your cigarette isn't in other's
+                    faces.</info>
+            </step>
+            <step>
+                <cmd>If there is no official cigarette disposing station nearby, make sure the flame
+                    is all the way out before throwing it in the trash.</cmd>
+            </step>
+            <step>
+                <cmd>For more information on smoking policies on Virginia Tech's campus, visit <xref
+                        href="http://www.policies.vt.edu/1010.pdf" format="pdf" scope="external"
+                    />.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

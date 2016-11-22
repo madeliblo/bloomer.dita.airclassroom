@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-msword">
+    <title>Using Microsoft Word</title>
+    <shortdesc>Microsoft Word is a word processing program that is a part of Microsoft Office used to create documents.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Though Word has a lot of functions, this procedure will focus on creating a simple document.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>On the home screen, move your mouse so that the pointer hovers over the Microsoft Word icon,
+                    and quickly double click the icon using the left button of your mouse.</cmd>
+                <stepresult><image href="msword.gif" id="image_kdx_v4z_yx">
+                    <alt>Taken from Google Images</alt></image></stepresult>
+            </step>
+            <step>
+                <cmd>Microsoft Word will open, and you will have many options. For our purposes of simplicity, select the first option: <b>Blank document</b>.</cmd>
+                <stepresult><image href="Screenshot%20(21).png" id="image_rjh_r5z_yx">
+                        <alt>Taken by Maddy Bloomer</alt>
+                    </image></stepresult>
+            </step>
+            <step>
+                <cmd>Type whatever your heart pleases. You can write what is on your mind, a grocery list, or even make up your own story.</cmd>
+            </step>
+            <step>
+                <cmd>Change the font type, size, or color of certain words or sentences by selecting the text you want to edit. To do this, use the left button of your mouse to click, and hold
+                that click as you drag the mouse over to the end of the text you want to edit. Then, click the <b>Home</b> tab at the top left of the screen, and select the fonts or colors
+                that you want to apply to the highlighted text.</cmd>
+                <info>If you click away from the text you selected, you will have to re-select it to apply the formatting. If you want to select all of your text, an easy way to do this
+                is by pressing the <b>Cmd</b> key and <b>A</b> key simultaneously on your keyboard.</info>
+                <stepresult><image href="editing.jpg" id="image_zfq_n5z_yx">
+                    <alt>Taken from Google Images</alt></image></stepresult>
+            </step>
+            <step>
+                <cmd>When you are finished creating your document or come to a logical stopping point, you will need to save it so you don't lose any of the information. 
+                    To save your document, click the <b>File</b> tab in the top left corner and select <b>Save As</b>, <b>Computer</b>, then <b>Browse</b>. Name the file something 
+                    you will be able to easily recognize as your document and store it in a file you will be able to easily locate.</cmd>
+            <stepresult><image href="saving.png" id="image_y3v_s5z_yx">
+                <alt>Taken from Google Images</alt></image></stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

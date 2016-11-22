@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-turningmacon">
+    <title>Turning on and Logging On to the Mac</title>
+    <shortdesc>Mac is short for Macintosh, which is a type of personal computer developed by Apple
+        Inc.</shortdesc>
+    <taskbody>
+        <context>
+            <p>If the Mac is not already turned on, you are going to need to do so yourself.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd id="turnon">Move your mouse from side to side. If the Mac screen does not light up, reach
+                    your hand behind the bottom left corner of the monitor and press the power
+                    button.</cmd>
+                <info>If you are unable to locate the button, turn the monitor around so that you can see the button.</info>
+                <stepresult><image href="macpower.jpg" id="image_dxt_53z_yx">
+                        <alt>Taken from Google Images</alt>
+                    </image></stepresult>
+            </step>
+            <step>
+                <cmd>Once the Mac turns on, move your mouse so that the pointer on your screen
+                    hovers over <b>Guest User</b>.</cmd>
+            </step>
+            <step>
+                <cmd id="logon">Click <b>Guest User</b> using your finger resting on the left button of the
+                    mouse, and enter the password credentials your supervisor provides you, followed
+                    by the <b>Return</b> or <b>Enter </b>key.</cmd>
+                <stepresult><image href="return.jpg" id="image_gp3_zjz_yx">
+                        <alt>Taken from Google Images</alt></image>
+                    You have successfully logged on to the Mac.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>
